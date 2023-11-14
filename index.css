@@ -54,12 +54,12 @@ nav {
     justify-content: space-around;
     flex-wrap: wrap;
 }
-.welcome
+#welcome
 {
-    width: 99.9%;
+    width: auto;
     height: max-content;
     background-color: rgba(253, 254, 255, 0.450);
-    font-size:x-large;
+    font-size:xx-large;
     font-weight: 800;
     color: #1d6d41;
     font-style: oblique;
